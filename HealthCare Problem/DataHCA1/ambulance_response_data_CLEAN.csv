@@ -1,0 +1,293 @@
+Call_ID,Date,Company,Call_Type,ETA_Minutes,Actual_Response_Minutes,Response_Delta_Minutes,On_Scene_Time_Minutes,Transport_Time_Minutes,Pay_Rate_Hourly,Pay_Tier,Shift_Type,Daily_Call_Volume,Performance_Rating,Is_Late,Had_Negative_Delta
+C0274,3/16/2025,Senior Care Ambulance,Non-Emergency,9,21,12,18,26,20,Low ($19-21),Night,50,Good,TRUE,FALSE
+C0156,6/13/2025,Hunter Ambulance,Non-Emergency,8,14,6,18,33,19.5,Low ($19-21),Day,68,Below Average,TRUE,FALSE
+C0085,5/5/2025,Mount Sinai,Emergency,9,9,0,8,21,35,High ($28-35),Day,48,Poor,FALSE,FALSE
+C0083,1/8/2025,Hunter Ambulance,Non-Emergency,14,37,23,18,20,19.5,Low ($19-21),Day,54,Good,TRUE,FALSE
+C0262,6/28/2025,Senior Care Ambulance,Non-Emergency,6,17,11,18,45,20,Low ($19-21),Day,52,Poor,TRUE,FALSE
+C0010,5/16/2025,Ambulnz,Non-Emergency,13,20,45,17,22,28,High ($28-35),Day,50,Good,TRUE,FALSE
+C0043,4/26/2025,Ambulnz,Non-Emergency,13,16,3,18,15,28,High ($28-35),Night,55,Below Average,FALSE,FALSE
+C0279,5/25/2025,Ambulnz,Non-Emergency,13,19,4,23,22,28,High ($28-35),Day,51,Excellent,FALSE,FALSE
+C0109,2/6/2025,Citywide Ambulance,Emergency,13,27,0,19,26,22,Low ($19-21),Night,52,Fair,FALSE,TRUE
+C0093,6/11/2025,AMR,Non-Emergency,7,13,6,16,38,21,Low ($19-21),Night,73,Excellent,TRUE,FALSE
+C0149,1/31/2025,Mount Sinai,Emergency,9,13,4,20,44,35,High ($28-35),Night,70,Poor,FALSE,FALSE
+C0212,4/6/2025,Senior Care Ambulance,Non-Emergency,7,28,21,13,38,20,Low ($19-21),Night,75,Excellent,TRUE,FALSE
+C0061,4/23/2025,Senior Care Ambulance,Non-Emergency,13,21,0,12,17,20,Low ($19-21),Night,51,Good,FALSE,TRUE
+C0219,4/3/2025,Mount Sinai,Emergency,7,7,0,23,21,35,High ($28-35),Day,36,Poor,FALSE,FALSE
+C0263,6/30/2025,Hunter Ambulance,Non-Emergency,14,3,0,14,24,19.5,Low ($19-21),Night,46,Good,FALSE,TRUE
+C0047,2/2/2025,Ambulnz,Non-Emergency,6,8,2,12,35,28,High ($28-35),Night,41,Poor,FALSE,FALSE
+C0046,5/18/2025,Citywide Ambulance,Emergency,9,15,6,24,34,22,Low ($19-21),Day,41,Poor,TRUE,FALSE
+C0237,5/30/2025,Mount Sinai,Emergency,13,9,0,20,31,35,High ($28-35),Day,52,Fair,FALSE,TRUE
+C0229,6/30/2025,Ambulnz,Non-Emergency,11,11,0,11,36,28,High ($28-35),Day,50,Fair,FALSE,FALSE
+C0133,5/26/2025,AMR,Non-Emergency,11,14,3,25,31,21,Low ($19-21),Night,43,Fair,FALSE,FALSE
+C0144,3/4/2025,Citywide Ambulance,Emergency,9,22,13,9,19,22,Low ($19-21),Day,53,Excellent,TRUE,FALSE
+C0168,6/2/2025,AMR,Non-Emergency,9,36,27,9,33,21,Low ($19-21),Night,60,Excellent,TRUE,FALSE
+C0153,4/16/2025,Citywide Ambulance,Emergency,9,19,0,24,29,22,Low ($19-21),Day,38,Fair,FALSE,TRUE
+C0094,3/21/2025,Citywide Ambulance,Non-Emergency,12,21,9,10,24,22,Low ($19-21),Day,59,Excellent,TRUE,FALSE
+C0114,4/15/2025,Citywide Ambulance,Non-Emergency,11,42,31,24,26,22,Low ($19-21),Night,70,Fair,TRUE,FALSE
+C0006,1/17/2025,Mount Sinai,Emergency,11,12,1,22,19,35,High ($28-35),Day,43,Poor,FALSE,FALSE
+C0239,1/23/2025,Ambulnz,Non-Emergency,12,13,1,23,27,28,High ($28-35),Day,37,Excellent,FALSE,FALSE
+C0252,2/27/2025,AMR,Non-Emergency,9,28,52,22,17,21,Low ($19-21),Night,63,Fair,TRUE,FALSE
+C0171,2/12/2025,AMR,Non-Emergency,14,18,4,25,28,21,Low ($19-21),Night,49,Fair,FALSE,FALSE
+C0187,1/18/2025,Ambulnz,Non-Emergency,8,14,6,12,44,28,High ($28-35),Night,74,Below Average,TRUE,FALSE
+C0194,1/8/2025,AMR,Non-Emergency,14,16,67,23,29,21,Low ($19-21),Day,52,Fair,TRUE,FALSE
+C0034,3/27/2025,Citywide Ambulance,Non-Emergency,8,11,3,12,37,22,Low ($19-21),Night,39,Excellent,FALSE,FALSE
+C0223,2/2/2025,Ambulnz,Non-Emergency,7,14,7,12,41,28,High ($28-35),Day,51,Good,TRUE,FALSE
+C0217,3/29/2025,AMR,Non-Emergency,12,17,5,10,25,21,Low ($19-21),Day,74,Excellent,FALSE,FALSE
+C0198,3/4/2025,Ambulnz,Non-Emergency,12,17,67,8,45,28,High ($28-35),Day,35,Good,TRUE,FALSE
+C0074,5/25/2025,AMR,Non-Emergency,14,38,24,15,25,21,Low ($19-21),Night,52,Fair,TRUE,FALSE
+C0183,2/24/2025,Senior Care Ambulance,Non-Emergency,10,13,3,23,40,20,Low ($19-21),Day,52,Fair,FALSE,FALSE
+C0120,3/20/2025,Hunter Ambulance,Non-Emergency,12,30,18,14,33,19.5,Low ($19-21),Day,52,Fair,TRUE,FALSE
+C0155,4/12/2025,AMR,Non-Emergency,12,26,14,15,24,21,Low ($19-21),Night,40,Excellent,TRUE,FALSE
+C0203,4/12/2025,Citywide Ambulance,Non-Emergency,10,30,20,20,42,22,Low ($19-21),Night,70,Below Average,TRUE,FALSE
+C0205,6/15/2025,Mount Sinai,Emergency,11,9,0,9,20,35,High ($28-35),Day,62,Good,FALSE,TRUE
+C0180,3/16/2025,Ambulnz,Non-Emergency,14,32,18,11,19,28,High ($28-35),Night,38,Fair,TRUE,FALSE
+C0178,1/27/2025,Hunter Ambulance,Non-Emergency,9,32,23,22,23,19.5,Low ($19-21),Day,40,Good,TRUE,FALSE
+C0112,6/20/2025,Citywide Ambulance,Non-Emergency,14,25,11,13,37,22,Low ($19-21),Night,75,Excellent,TRUE,FALSE
+C0060,3/3/2025,AMR,Non-Emergency,12,31,52,20,27,21,Low ($19-21),Night,44,Excellent,TRUE,FALSE
+C0227,2/28/2025,Hunter Ambulance,Non-Emergency,13,25,12,21,34,19.5,Low ($19-21),Night,40,Below Average,TRUE,FALSE
+C0026,3/13/2025,Citywide Ambulance,Non-Emergency,10,22,12,25,25,22,Low ($19-21),Day,42,Poor,TRUE,FALSE
+C0078,6/4/2025,Senior Care Ambulance,Non-Emergency,7,16,9,25,38,20,Low ($19-21),Night,62,Below Average,TRUE,FALSE
+C0007,2/26/2025,Hunter Ambulance,Non-Emergency,13,19,24,11,19,19.5,Low ($19-21),Night,45,Good,TRUE,FALSE
+C0176,5/24/2025,Hunter Ambulance,Non-Emergency,13,31,18,23,20,19.5,Low ($19-21),Day,52,Below Average,TRUE,FALSE
+C0165,2/15/2025,Citywide Ambulance,Non-Emergency,10,29,19,15,25,22,Low ($19-21),Night,52,Good,TRUE,FALSE
+C0141,4/18/2025,Citywide Ambulance,Non-Emergency,13,26,13,20,17,22,Low ($19-21),Night,69,Excellent,TRUE,FALSE
+C0031,1/19/2025,Ambulnz,Non-Emergency,9,10,1,20,22,28,High ($28-35),Night,35,Good,FALSE,FALSE
+C0023,1/10/2025,Citywide Ambulance,Non-Emergency,8,19,12,19,43,22,Low ($19-21),Day,57,Below Average,TRUE,FALSE
+C0246,1/24/2025,Senior Care Ambulance,Non-Emergency,7,16,9,22,24,20,Low ($19-21),Day,52,Fair,TRUE,FALSE
+C0025,3/5/2025,Hunter Ambulance,Non-Emergency,7,19,7,23,22,19.5,Low ($19-21),Night,64,Below Average,TRUE,FALSE
+C0057,1/24/2025,AMR,Non-Emergency,7,12,5,12,30,21,Low ($19-21),Night,53,Poor,FALSE,FALSE
+C0145,3/19/2025,Citywide Ambulance,Emergency,14,28,14,9,32,22,Low ($19-21),Day,46,Good,TRUE,FALSE
+C0125,5/30/2025,Citywide Ambulance,Non-Emergency,6,22,16,15,38,22,Low ($19-21),Day,72,Good,TRUE,FALSE
+C0098,4/18/2025,AMR,Non-Emergency,8,19,14,23,42,21,Low ($19-21),Day,70,Good,TRUE,FALSE
+C0064,6/24/2025,Mount Sinai,Emergency,8,7,0,22,23,35,High ($28-35),Night,35,Fair,FALSE,TRUE
+C0018,1/31/2025,Mount Sinai,Emergency,6,9,3,24,25,35,High ($28-35),Day,48,Excellent,FALSE,FALSE
+C0216,4/7/2025,Ambulnz,Non-Emergency,13,21,8,15,20,28,High ($28-35),Night,39,Excellent,TRUE,FALSE
+C0220,4/12/2025,Hunter Ambulance,Non-Emergency,10,22,12,13,26,19.5,Low ($19-21),Night,58,Excellent,TRUE,FALSE
+C0184,4/20/2025,Ambulnz,Non-Emergency,8,14,6,16,17,28,High ($28-35),Night,58,Excellent,TRUE,FALSE
+C0115,1/15/2025,Ambulnz,Non-Emergency,10,13,3,15,26,28,High ($28-35),Day,53,Poor,FALSE,FALSE
+C0077,4/24/2025,Hunter Ambulance,Non-Emergency,7,19,12,12,23,19.5,Low ($19-21),Day,75,Excellent,TRUE,FALSE
+C0260,6/20/2025,AMR,Non-Emergency,14,32,18,8,31,21,Low ($19-21),Day,36,Excellent,TRUE,FALSE
+C0067,6/12/2025,Ambulnz,Non-Emergency,10,14,4,12,35,28,High ($28-35),Day,75,Poor,FALSE,FALSE
+C0179,6/26/2025,Ambulnz,Non-Emergency,12,15,3,14,41,28,High ($28-35),Night,38,Poor,FALSE,FALSE
+C0155,4/12/2025,AMR,Non-Emergency,12,26,14,15,24,21,Low ($19-21),Night,40,Excellent,TRUE,FALSE
+C0076,4/3/2025,Citywide Ambulance,Non-Emergency,14,32,18,24,24,22,Low ($19-21),Night,52,Fair,TRUE,FALSE
+C0020,2/10/2025,Mount Sinai,Emergency,10,8,0,24,15,35,High ($28-35),Night,70,Good,FALSE,TRUE
+C0109,2/6/2025,Citywide Ambulance,Emergency,13,27,0,19,26,22,Low ($19-21),Night,52,Fair,FALSE,TRUE
+C0080,5/31/2025,AMR,Non-Emergency,7,4,0,21,42,21,Low ($19-21),Night,38,Poor,FALSE,TRUE
+C0119,1/25/2025,Mount Sinai,Emergency,12,18,6,13,41,35,High ($28-35),Day,71,Below Average,TRUE,FALSE
+C0073,1/26/2025,Hunter Ambulance,Non-Emergency,11,22,45,11,45,19.5,Low ($19-21),Night,40,Excellent,TRUE,FALSE
+C0016,1/16/2025,Hunter Ambulance,Non-Emergency,6,13,7,22,24,19.5,Low ($19-21),Night,70,Fair,TRUE,FALSE
+C0011,5/17/2025,Hunter Ambulance,Non-Emergency,13,21,8,24,42,19.5,Low ($19-21),Day,62,Below Average,TRUE,FALSE
+C0102,5/12/2025,Hunter Ambulance,Non-Emergency,10,18,8,15,33,19.5,Low ($19-21),Night,46,Good,TRUE,FALSE
+C0069,3/17/2025,AMR,Non-Emergency,7,21,14,15,42,21,Low ($19-21),Night,60,Excellent,TRUE,FALSE
+C0126,6/29/2025,Citywide Ambulance,Non-Emergency,6,35,29,21,37,22,Low ($19-21),Night,61,Fair,TRUE,FALSE
+C0038,4/18/2025,Hunter Ambulance,Non-Emergency,7,4,0,9,45,19.5,Low ($19-21),Day,49,Excellent,FALSE,TRUE
+C0017,5/19/2025,AMR,Non-Emergency,11,14,67,24,20,21,Low ($19-21),Day,52,Fair,TRUE,FALSE
+C0140,1/12/2025,Mount Sinai,Emergency,14,13,0,10,44,35,High ($28-35),Night,37,Fair,FALSE,TRUE
+C0267,1/30/2025,Citywide Ambulance,Non-Emergency,10,35,67,19,31,22,Low ($19-21),Day,63,Poor,TRUE,FALSE
+C0068,1/24/2025,Mount Sinai,Emergency,12,18,6,25,43,35,High ($28-35),Day,68,Poor,TRUE,FALSE
+C0091,1/24/2025,Mount Sinai,Emergency,13,15,2,9,29,35,High ($28-35),Day,47,Fair,FALSE,FALSE
+C0070,4/27/2025,Hunter Ambulance,Non-Emergency,10,16,6,19,18,19.5,Low ($19-21),Night,49,Excellent,TRUE,FALSE
+C0204,1/4/2025,Mount Sinai,Emergency,9,15,6,19,36,35,High ($28-35),Night,40,Poor,TRUE,FALSE
+C0166,2/16/2025,Senior Care Ambulance,Non-Emergency,13,28,15,17,41,20,Low ($19-21),Night,39,Good,TRUE,FALSE
+C0127,2/5/2025,Citywide Ambulance,Non-Emergency,13,17,4,13,29,22,Low ($19-21),Day,56,Poor,FALSE,FALSE
+C0222,5/2/2025,Hunter Ambulance,Non-Emergency,10,8,0,24,40,19.5,Low ($19-21),Day,74,Fair,FALSE,TRUE
+C0174,1/31/2025,Senior Care Ambulance,Non-Emergency,7,21,14,24,27,20,Low ($19-21),Night,73,Good,TRUE,FALSE
+C0019,4/28/2025,Hunter Ambulance,Non-Emergency,7,11,67,11,17,19.5,Low ($19-21),Day,48,Fair,TRUE,FALSE
+C0173,5/6/2025,Ambulnz,Non-Emergency,12,16,4,19,26,28,High ($28-35),Night,74,Poor,FALSE,FALSE
+C0097,3/2/2025,Mount Sinai,Emergency,13,16,3,23,43,35,High ($28-35),Night,58,Fair,FALSE,FALSE
+C0147,1/15/2025,Citywide Ambulance,Non-Emergency,14,16,2,16,21,22,Low ($19-21),Day,40,Excellent,FALSE,FALSE
+C0087,6/13/2025,AMR,Non-Emergency,6,25,19,22,41,21,Low ($19-21),Night,52,Good,TRUE,FALSE
+C0238,4/28/2025,Ambulnz,Non-Emergency,8,13,5,13,25,28,High ($28-35),Night,52,Poor,FALSE,FALSE
+C0138,5/25/2025,Senior Care Ambulance,Non-Emergency,14,23,9,25,19,20,Low ($19-21),Night,55,Fair,TRUE,FALSE
+C0177,4/28/2025,AMR,Non-Emergency,13,25,12,11,23,21,Low ($19-21),Day,58,Excellent,TRUE,FALSE
+C0110,5/27/2025,AMR,Non-Emergency,11,22,11,15,45,21,Low ($19-21),Day,36,Fair,TRUE,FALSE
+C0247,4/20/2025,AMR,Non-Emergency,6,14,0,13,25,21,Low ($19-21),Day,63,Poor,FALSE,TRUE
+C0197,3/21/2025,Mount Sinai,Emergency,6,6,0,17,38,35,High ($28-35),Day,50,Fair,FALSE,FALSE
+C0056,5/8/2025,Ambulnz,Non-Emergency,9,18,9,17,29,28,High ($28-35),Night,66,Below Average,TRUE,FALSE
+C0251,2/8/2025,Citywide Ambulance,Non-Emergency,6,7,0,23,42,22,Low ($19-21),Night,52,Fair,FALSE,TRUE
+C0159,1/20/2025,AMR,Non-Emergency,12,14,2,16,40,21,Low ($19-21),Night,66,Good,FALSE,FALSE
+C0243,1/6/2025,Mount Sinai,Emergency,7,11,4,25,23,35,High ($28-35),Night,44,Excellent,FALSE,FALSE
+C0039,2/9/2025,Ambulnz,Non-Emergency,13,11,0,14,29,28,High ($28-35),Night,51,Fair,FALSE,TRUE
+C0186,1/31/2025,Hunter Ambulance,Non-Emergency,8,25,17,10,38,19.5,Low ($19-21),Day,41,Poor,TRUE,FALSE
+C0280,5/1/2025,Senior Care Ambulance,Non-Emergency,6,14,8,24,35,20,Low ($19-21),Day,51,Fair,TRUE,FALSE
+C0058,5/22/2025,Hunter Ambulance,Non-Emergency,9,18,9,12,42,19.5,Low ($19-21),Day,52,Good,TRUE,FALSE
+C0117,5/27/2025,Mount Sinai,Emergency,13,15,2,17,30,35,High ($28-35),Night,60,Good,FALSE,FALSE
+C0130,3/11/2025,Senior Care Ambulance,Non-Emergency,9,16,7,24,22,20,Low ($19-21),Night,52,Good,TRUE,FALSE
+C0113,3/2/2025,Mount Sinai,Emergency,14,16,2,25,19,35,High ($28-35),Day,52,Good,FALSE,FALSE
+C0278,5/31/2025,Ambulnz,Non-Emergency,13,14,1,19,31,28,High ($28-35),Day,50,Fair,FALSE,FALSE
+C0105,2/21/2025,Ambulnz,Non-Emergency,9,12,3,17,31,28,High ($28-35),Night,69,Excellent,FALSE,FALSE
+C0231,6/24/2025,AMR,Non-Emergency,8,14,6,8,22,21,Low ($19-21),Day,73,Poor,TRUE,FALSE
+C0160,1/22/2025,Citywide Ambulance,Non-Emergency,9,26,17,12,27,22,Low ($19-21),Night,75,Good,TRUE,FALSE
+C0032,5/13/2025,Ambulnz,Non-Emergency,7,20,13,24,32,28,High ($28-35),Day,55,Fair,TRUE,FALSE
+C0118,2/22/2025,Ambulnz,Non-Emergency,11,10,0,20,19,28,High ($28-35),Day,67,Excellent,FALSE,TRUE
+C0273,3/30/2025,Mount Sinai,Emergency,14,20,6,16,21,35,High ($28-35),Day,46,Excellent,TRUE,FALSE
+C0079,3/22/2025,Hunter Ambulance,Non-Emergency,11,23,12,23,17,19.5,Low ($19-21),Day,52,Good,TRUE,FALSE
+C0214,6/6/2025,Senior Care Ambulance,Non-Emergency,7,24,17,10,22,20,Low ($19-21),Day,55,Good,TRUE,FALSE
+C0209,5/28/2025,Citywide Ambulance,Emergency,11,27,16,13,20,22,Low ($19-21),Night,72,Excellent,TRUE,FALSE
+C0240,1/5/2025,AMR,Non-Emergency,9,27,18,17,19,21,Low ($19-21),Day,59,Poor,TRUE,FALSE
+C0268,1/25/2025,Ambulnz,Non-Emergency,14,12,0,14,36,28,High ($28-35),Night,48,Good,FALSE,TRUE
+C0148,3/10/2025,Citywide Ambulance,Emergency,6,7,1,25,21,22,Low ($19-21),Night,48,Excellent,FALSE,FALSE
+C0272,3/18/2025,Senior Care Ambulance,Non-Emergency,11,19,0,25,19,20,Low ($19-21),Day,52,Good,FALSE,FALSE
+C0003,3/30/2025,AMR,Non-Emergency,13,30,17,20,17,21,Low ($19-21),Day,53,Excellent,TRUE,FALSE
+C0116,6/7/2025,Senior Care Ambulance,Non-Emergency,8,22,14,13,36,20,Low ($19-21),Day,73,Excellent,TRUE,FALSE
+C0196,2/27/2025,Citywide Ambulance,Non-Emergency,11,26,15,19,18,22,Low ($19-21),Day,38,Excellent,TRUE,FALSE
+C0169,2/26/2025,Hunter Ambulance,Non-Emergency,9,19,10,24,19,19.5,Low ($19-21),Day,36,Poor,TRUE,FALSE
+C0121,5/18/2025,Citywide Ambulance,Non-Emergency,7,25,18,19,39,22,Low ($19-21),Night,52,Excellent,TRUE,FALSE
+C0201,3/23/2025,Hunter Ambulance,Non-Emergency,9,23,14,11,19,19.5,Low ($19-21),Day,45,Excellent,TRUE,FALSE
+C0257,4/21/2025,Mount Sinai,Emergency,14,20,6,13,38,35,High ($28-35),Night,41,Excellent,TRUE,FALSE
+C0128,3/18/2025,Ambulnz,Non-Emergency,10,11,1,23,25,28,High ($28-35),Night,57,Poor,FALSE,FALSE
+C0075,6/19/2025,Senior Care Ambulance,Non-Emergency,11,3,0,18,15,20,Low ($19-21),Night,52,Good,FALSE,TRUE
+C0030,3/14/2025,Citywide Ambulance,Emergency,11,20,9,15,36,22,Low ($19-21),Day,49,Fair,TRUE,FALSE
+C0084,6/22/2025,Ambulnz,Non-Emergency,13,14,1,22,28,28,High ($28-35),Day,48,Good,FALSE,FALSE
+C0233,1/28/2025,Senior Care Ambulance,Non-Emergency,10,22,12,16,35,20,Low ($19-21),Night,54,Below Average,TRUE,FALSE
+C0108,2/12/2025,AMR,Non-Emergency,6,19,13,21,23,21,Low ($19-21),Night,52,Good,TRUE,FALSE
+C0235,6/13/2025,Citywide Ambulance,Non-Emergency,11,40,29,25,20,22,Low ($19-21),Day,41,Poor,TRUE,FALSE
+C0158,4/12/2025,Ambulnz,Non-Emergency,9,15,6,25,25,28,High ($28-35),Night,43,Good,TRUE,FALSE
+C0259,5/22/2025,Senior Care Ambulance,Non-Emergency,10,25,15,12,37,20,Low ($19-21),Night,46,Excellent,TRUE,FALSE
+C0181,3/5/2025,Ambulnz,Non-Emergency,13,20,7,21,27,28,High ($28-35),Night,39,Good,TRUE,FALSE
+C0207,6/14/2025,AMR,Non-Emergency,14,30,16,19,30,21,Low ($19-21),Day,66,Excellent,TRUE,FALSE
+C0066,6/29/2025,Hunter Ambulance,Non-Emergency,12,34,22,9,44,19.5,Low ($19-21),Day,66,Poor,TRUE,FALSE
+C0222,5/2/2025,Hunter Ambulance,Non-Emergency,10,8,0,24,40,19.5,Low ($19-21),Day,74,Fair,FALSE,TRUE
+C0086,4/8/2025,Mount Sinai,Emergency,14,14,0,10,27,35,High ($28-35),Night,37,Fair,FALSE,FALSE
+C0204,1/4/2025,Mount Sinai,Emergency,9,15,6,19,36,35,High ($28-35),Night,40,Poor,TRUE,FALSE
+C0013,3/2/2025,Mount Sinai,Emergency,13,16,3,23,22,35,High ($28-35),Night,61,Good,FALSE,FALSE
+C0036,6/4/2025,Hunter Ambulance,Non-Emergency,10,19,2,18,36,19.5,Low ($19-21),Night,60,Fair,FALSE,FALSE
+C0029,6/7/2025,Hunter Ambulance,Non-Emergency,6,13,7,18,29,19.5,Low ($19-21),Night,63,Fair,TRUE,FALSE
+C0143,1/29/2025,Ambulnz,Non-Emergency,12,9,0,8,22,28,High ($28-35),Night,39,Excellent,FALSE,TRUE
+C0182,4/27/2025,Citywide Ambulance,Non-Emergency,6,11,5,10,38,22,Low ($19-21),Night,75,Excellent,FALSE,FALSE
+C0266,3/26/2025,Ambulnz,Non-Emergency,14,13,0,8,18,28,High ($28-35),Night,57,Below Average,FALSE,TRUE
+C0185,6/10/2025,Citywide Ambulance,Non-Emergency,9,19,10,11,15,22,Low ($19-21),Night,52,Below Average,TRUE,FALSE
+C0052,6/2/2025,Ambulnz,Non-Emergency,10,12,2,17,37,28,High ($28-35),Night,52,Fair,FALSE,FALSE
+C0096,1/26/2025,Ambulnz,Non-Emergency,14,12,45,12,34,28,High ($28-35),Night,44,Fair,TRUE,FALSE
+C0254,4/27/2025,AMR,Non-Emergency,13,33,20,22,18,21,Low ($19-21),Day,52,Excellent,TRUE,FALSE
+C0211,1/1/2025,Senior Care Ambulance,Non-Emergency,8,24,16,18,16,20,Low ($19-21),Day,44,Fair,TRUE,FALSE
+C0042,4/28/2025,Mount Sinai,Emergency,14,17,3,25,39,35,High ($28-35),Night,64,Poor,FALSE,FALSE
+C0090,1/18/2025,Citywide Ambulance,Non-Emergency,10,26,16,10,24,22,Low ($19-21),Night,52,Excellent,TRUE,FALSE
+C0234,2/5/2025,Senior Care Ambulance,Non-Emergency,10,16,6,20,38,20,Low ($19-21),Day,72,Below Average,TRUE,FALSE
+C0137,2/9/2025,Ambulnz,Non-Emergency,11,11,0,23,39,28,High ($28-35),Day,48,Good,FALSE,FALSE
+C0027,3/22/2025,AMR,Non-Emergency,7,9,2,16,16,21,Low ($19-21),Night,52,Below Average,FALSE,FALSE
+C0145,3/19/2025,Citywide Ambulance,Emergency,14,28,14,9,32,22,Low ($19-21),Day,46,Good,TRUE,FALSE
+C0142,2/27/2025,Senior Care Ambulance,Non-Emergency,10,32,22,21,32,20,Low ($19-21),Night,49,Excellent,TRUE,FALSE
+C0275,6/18/2025,AMR,Non-Emergency,11,15,4,13,15,21,Low ($19-21),Day,50,Good,FALSE,FALSE
+C0001,3/12/2025,Citywide Ambulance,Non-Emergency,8,23,15,25,17,22,Low ($19-21),Day,52,Good,TRUE,FALSE
+C0265,3/19/2025,Citywide Ambulance,Non-Emergency,11,20,45,13,31,22,Low ($19-21),Day,67,Good,TRUE,FALSE
+C0101,5/21/2025,Mount Sinai,Emergency,12,10,0,17,18,35,High ($28-35),Day,50,Fair,FALSE,TRUE
+C0250,6/23/2025,AMR,Non-Emergency,9,24,15,18,31,21,Low ($19-21),Day,52,Below Average,TRUE,FALSE
+C0245,4/15/2025,Senior Care Ambulance,Non-Emergency,6,8,2,23,25,20,Low ($19-21),Night,52,Good,FALSE,FALSE
+C0276,5/3/2025,AMR,Non-Emergency,10,25,15,10,41,21,Low ($19-21),Day,43,Below Average,TRUE,FALSE
+C0099,2/7/2025,Ambulnz,Non-Emergency,9,13,4,8,28,28,High ($28-35),Day,60,Below Average,FALSE,FALSE
+C0037,6/1/2025,Senior Care Ambulance,Non-Emergency,12,25,13,9,23,20,Low ($19-21),Night,55,Excellent,TRUE,FALSE
+C0062,4/8/2025,AMR,Non-Emergency,13,19,10,10,22,21,Low ($19-21),Night,53,Good,TRUE,FALSE
+C0151,5/22/2025,Ambulnz,Non-Emergency,12,17,5,15,27,28,High ($28-35),Day,50,Excellent,FALSE,FALSE
+C0226,6/24/2025,AMR,Non-Emergency,11,19,20,23,44,21,Low ($19-21),Day,52,Poor,TRUE,FALSE
+C0193,6/18/2025,Senior Care Ambulance,Non-Emergency,8,21,13,19,31,20,Low ($19-21),Day,51,Fair,TRUE,FALSE
+C0232,4/7/2025,Citywide Ambulance,Non-Emergency,9,22,13,20,33,22,Low ($19-21),Day,35,Excellent,TRUE,FALSE
+C0012,4/23/2025,Hunter Ambulance,Non-Emergency,9,17,8,25,22,19.5,Low ($19-21),Day,52,Excellent,TRUE,FALSE
+C0093,6/11/2025,AMR,Non-Emergency,7,13,6,16,38,21,Low ($19-21),Night,73,Excellent,TRUE,FALSE
+C0264,1/11/2025,Ambulnz,Non-Emergency,8,8,0,8,25,28,High ($28-35),Night,52,Excellent,FALSE,FALSE
+C0028,6/9/2025,Mount Sinai,Emergency,10,13,3,18,27,35,High ($28-35),Night,53,Below Average,FALSE,FALSE
+C0210,5/26/2025,Mount Sinai,Emergency,9,24,15,23,32,35,High ($28-35),Day,46,Good,TRUE,FALSE
+C0005,1/19/2025,Citywide Ambulance,Non-Emergency,9,19,10,25,22,22,Low ($19-21),Night,55,Excellent,TRUE,FALSE
+C0123,5/11/2025,AMR,Non-Emergency,6,29,23,23,31,21,Low ($19-21),Night,44,Fair,TRUE,FALSE
+C0033,5/21/2025,Citywide Ambulance,Non-Emergency,13,24,11,16,39,22,Low ($19-21),Day,66,Poor,TRUE,FALSE
+C0195,6/22/2025,AMR,Non-Emergency,14,27,0,23,26,21,Low ($19-21),Night,44,Excellent,FALSE,TRUE
+C0163,1/17/2025,AMR,Non-Emergency,10,31,21,10,26,21,Low ($19-21),Day,50,Fair,TRUE,FALSE
+C0224,3/12/2025,Senior Care Ambulance,Non-Emergency,6,6,0,24,40,20,Low ($19-21),Night,42,Fair,FALSE,FALSE
+C0248,1/30/2025,Mount Sinai,Emergency,10,10,0,23,40,35,High ($28-35),Night,45,Excellent,FALSE,FALSE
+C0139,5/11/2025,Ambulnz,Non-Emergency,8,16,8,9,32,28,High ($28-35),Night,54,Good,TRUE,FALSE
+C0063,1/26/2025,Mount Sinai,Emergency,6,5,0,19,28,35,High ($28-35),Night,50,Fair,FALSE,TRUE
+C0136,1/31/2025,AMR,Non-Emergency,14,38,24,17,37,21,Low ($19-21),Day,75,Poor,TRUE,FALSE
+C0129,4/12/2025,Senior Care Ambulance,Non-Emergency,8,20,12,10,26,20,Low ($19-21),Night,51,Below Average,TRUE,FALSE
+C0010,5/16/2025,Ambulnz,Non-Emergency,13,20,45,17,22,28,High ($28-35),Day,50,Good,TRUE,FALSE
+C0009,3/9/2025,Hunter Ambulance,Non-Emergency,14,22,8,17,41,19.5,Low ($19-21),Night,67,Fair,TRUE,FALSE
+C0071,4/29/2025,Ambulnz,Non-Emergency,12,19,6,9,24,28,High ($28-35),Night,52,Fair,TRUE,FALSE
+C0261,3/15/2025,Ambulnz,Non-Emergency,6,6,0,25,16,28,High ($28-35),Day,63,Below Average,FALSE,FALSE
+C0065,4/24/2025,Citywide Ambulance,Emergency,10,28,18,16,29,22,Low ($19-21),Day,47,Fair,TRUE,FALSE
+C0045,3/4/2025,Mount Sinai,Emergency,13,11,0,25,25,35,High ($28-35),Day,64,Poor,FALSE,TRUE
+C0225,1/28/2025,Senior Care Ambulance,Non-Emergency,10,18,8,21,23,20,Low ($19-21),Night,66,Fair,TRUE,FALSE
+C0157,3/11/2025,Citywide Ambulance,Non-Emergency,7,33,26,25,33,22,Low ($19-21),Night,37,Excellent,TRUE,FALSE
+C0041,1/31/2025,AMR,Non-Emergency,6,23,17,19,17,21,Low ($19-21),Day,52,Good,TRUE,FALSE
+C0124,6/7/2025,Senior Care Ambulance,Non-Emergency,11,11,0,23,37,20,Low ($19-21),Day,54,Excellent,FALSE,FALSE
+C0255,1/28/2025,AMR,Non-Emergency,8,8,0,21,18,21,Low ($19-21),Day,74,Good,FALSE,FALSE
+C0154,5/16/2025,Mount Sinai,Emergency,10,13,52,13,18,35,High ($28-35),Day,68,Below Average,TRUE,FALSE
+C0024,4/15/2025,AMR,Non-Emergency,9,9,0,13,43,21,Low ($19-21),Night,36,Excellent,FALSE,FALSE
+C0034,3/27/2025,Citywide Ambulance,Non-Emergency,8,11,3,12,37,22,Low ($19-21),Night,39,Excellent,FALSE,FALSE
+C0256,2/18/2025,Hunter Ambulance,Non-Emergency,12,20,67,22,29,19.5,Low ($19-21),Night,72,Fair,TRUE,FALSE
+C0082,1/7/2025,Senior Care Ambulance,Non-Emergency,10,24,45,17,44,20,Low ($19-21),Day,52,Fair,TRUE,FALSE
+C0208,3/13/2025,Ambulnz,Non-Emergency,13,20,7,15,20,28,High ($28-35),Day,50,Poor,TRUE,FALSE
+C0213,4/2/2025,Senior Care Ambulance,Non-Emergency,8,27,19,17,19,20,Low ($19-21),Night,35,Good,TRUE,FALSE
+C0040,3/21/2025,Citywide Ambulance,Emergency,6,19,13,20,27,22,Low ($19-21),Night,52,Below Average,TRUE,FALSE
+C0230,2/11/2025,Hunter Ambulance,Non-Emergency,7,24,17,13,42,19.5,Low ($19-21),Day,48,Below Average,TRUE,FALSE
+C0147,1/15/2025,Citywide Ambulance,Non-Emergency,14,16,2,16,21,22,Low ($19-21),Day,40,Excellent,FALSE,FALSE
+C0249,5/26/2025,Ambulnz,Non-Emergency,12,25,13,12,30,28,High ($28-35),Night,42,Fair,TRUE,FALSE
+C0200,5/29/2025,AMR,Non-Emergency,8,10,2,9,28,21,Low ($19-21),Night,43,Poor,FALSE,FALSE
+C0015,1/20/2025,AMR,Non-Emergency,14,13,0,25,41,21,Low ($19-21),Day,40,Below Average,FALSE,TRUE
+C0048,3/6/2025,Hunter Ambulance,Non-Emergency,7,27,20,9,19,19.5,Low ($19-21),Night,71,Good,TRUE,FALSE
+C0095,6/25/2025,Citywide Ambulance,Non-Emergency,12,19,8,17,20,22,Low ($19-21),Night,56,Fair,TRUE,FALSE
+C0260,6/20/2025,AMR,Non-Emergency,14,32,18,8,31,21,Low ($19-21),Day,36,Excellent,TRUE,FALSE
+C0228,4/6/2025,Hunter Ambulance,Non-Emergency,8,11,67,24,43,19.5,Low ($19-21),Day,36,Below Average,TRUE,FALSE
+C0270,4/21/2025,Hunter Ambulance,Non-Emergency,7,20,13,10,39,19.5,Low ($19-21),Night,52,Good,TRUE,FALSE
+C0202,4/26/2025,Senior Care Ambulance,Non-Emergency,7,23,16,17,41,20,Low ($19-21),Night,52,Excellent,TRUE,FALSE
+C0162,4/9/2025,Senior Care Ambulance,Non-Emergency,12,30,18,25,43,20,Low ($19-21),Night,71,Good,TRUE,FALSE
+C0044,6/29/2025,AMR,Non-Emergency,14,23,9,21,30,21,Low ($19-21),Day,50,Fair,TRUE,FALSE
+C0218,2/10/2025,Citywide Ambulance,Non-Emergency,11,21,10,25,38,22,Low ($19-21),Night,69,Poor,TRUE,FALSE
+C0146,6/21/2025,Mount Sinai,Emergency,12,17,5,13,39,35,High ($28-35),Day,65,Below Average,FALSE,FALSE
+C0191,1/16/2025,Mount Sinai,Emergency,10,10,0,21,28,35,High ($28-35),Night,52,Fair,FALSE,FALSE
+C0221,5/25/2025,Hunter Ambulance,Non-Emergency,7,37,30,25,28,19.5,Low ($19-21),Day,49,Good,TRUE,FALSE
+C0241,5/14/2025,Mount Sinai,Emergency,8,8,0,19,39,35,High ($28-35),Night,45,Good,FALSE,FALSE
+C0004,2/28/2025,Citywide Ambulance,Non-Emergency,9,33,24,22,35,22,Low ($19-21),Day,45,Below Average,TRUE,FALSE
+C0106,1/13/2025,Ambulnz,Non-Emergency,7,13,6,20,38,28,High ($28-35),Night,59,Fair,TRUE,FALSE
+C0054,2/16/2025,Citywide Ambulance,Non-Emergency,13,29,16,21,25,22,Low ($19-21),Day,41,Excellent,TRUE,FALSE
+C0134,6/15/2025,Mount Sinai,Emergency,8,12,45,14,20,35,High ($28-35),Day,75,Good,TRUE,FALSE
+C0002,6/16/2025,Senior Care Ambulance,Non-Emergency,13,23,10,8,39,20,Low ($19-21),Night,62,Fair,TRUE,FALSE
+C0132,6/16/2025,Citywide Ambulance,Emergency,6,18,12,13,44,22,Low ($19-21),Day,60,Fair,TRUE,FALSE
+C0104,3/27/2025,Citywide Ambulance,Non-Emergency,11,16,5,13,41,22,Low ($19-21),Night,64,Fair,FALSE,FALSE
+C0050,6/10/2025,Citywide Ambulance,Emergency,7,5,0,10,20,22,Low ($19-21),Day,61,Fair,FALSE,TRUE
+C0164,1/2/2025,Ambulnz,Non-Emergency,12,12,0,18,28,28,High ($28-35),Night,73,Excellent,FALSE,FALSE
+C0081,5/4/2025,Senior Care Ambulance,Non-Emergency,7,17,10,11,39,20,Low ($19-21),Day,71,Good,TRUE,FALSE
+C0206,2/24/2025,Hunter Ambulance,Non-Emergency,13,19,4,15,35,19.5,Low ($19-21),Day,66,Fair,FALSE,FALSE
+C0035,4/10/2025,Hunter Ambulance,Non-Emergency,6,24,18,20,30,19.5,Low ($19-21),Day,57,Good,TRUE,FALSE
+C0269,4/22/2025,Ambulnz,Non-Emergency,8,19,45,10,16,28,High ($28-35),Night,51,Below Average,TRUE,FALSE
+C0008,5/16/2025,Hunter Ambulance,Non-Emergency,14,19,18,11,36,19.5,Low ($19-21),Day,52,Excellent,TRUE,FALSE
+C0172,6/7/2025,Citywide Ambulance,Emergency,12,17,5,14,23,22,Low ($19-21),Night,39,Fair,FALSE,FALSE
+C0199,5/16/2025,Citywide Ambulance,Emergency,6,18,12,16,17,22,Low ($19-21),Day,49,Good,TRUE,FALSE
+C0111,6/30/2025,Senior Care Ambulance,Non-Emergency,10,7,0,14,18,20,Low ($19-21),Night,39,Fair,FALSE,TRUE
+C0092,3/29/2025,Mount Sinai,Emergency,8,13,52,24,31,35,High ($28-35),Day,45,Poor,TRUE,FALSE
+C0053,3/24/2025,Senior Care Ambulance,Non-Emergency,9,15,6,8,39,20,Low ($19-21),Night,52,Fair,TRUE,FALSE
+C0242,1/6/2025,Ambulnz,Non-Emergency,11,14,3,20,43,28,High ($28-35),Night,51,Excellent,FALSE,FALSE
+C0014,1/14/2025,AMR,Non-Emergency,7,4,45,11,22,21,Low ($19-21),Night,47,Fair,TRUE,FALSE
+C0089,2/9/2025,Ambulnz,Non-Emergency,8,9,1,22,39,28,High ($28-35),Day,72,Excellent,FALSE,FALSE
+C0167,6/18/2025,Ambulnz,Non-Emergency,12,20,8,23,33,28,High ($28-35),Night,69,Good,TRUE,FALSE
+C0156,6/13/2025,Hunter Ambulance,Non-Emergency,8,14,6,18,33,19.5,Low ($19-21),Day,68,Below Average,TRUE,FALSE
+C0135,2/5/2025,Mount Sinai,Emergency,6,6,0,16,45,35,High ($28-35),Day,54,Excellent,FALSE,FALSE
+C0241,5/14/2025,Mount Sinai,Emergency,8,8,0,19,39,35,High ($28-35),Night,45,Good,FALSE,FALSE
+C0244,3/11/2025,Citywide Ambulance,Non-Emergency,12,30,18,11,24,22,Low ($19-21),Day,41,Below Average,TRUE,FALSE
+C0055,5/21/2025,Hunter Ambulance,Non-Emergency,7,27,20,20,42,19.5,Low ($19-21),Day,35,Fair,TRUE,FALSE
+C0051,4/27/2025,Ambulnz,Non-Emergency,9,15,6,14,28,28,High ($28-35),Day,69,Fair,TRUE,FALSE
+C0175,6/15/2025,Hunter Ambulance,Non-Emergency,8,22,14,18,41,19.5,Low ($19-21),Night,52,Excellent,TRUE,FALSE
+C0190,1/4/2025,Senior Care Ambulance,Non-Emergency,8,8,0,21,26,20,Low ($19-21),Day,46,Good,FALSE,FALSE
+C0188,4/9/2025,Mount Sinai,Emergency,8,10,2,15,32,35,High ($28-35),Day,73,Poor,FALSE,FALSE
+C0170,3/29/2025,Mount Sinai,Emergency,13,13,0,22,25,35,High ($28-35),Day,52,Good,FALSE,FALSE
+C0059,3/18/2025,Senior Care Ambulance,Non-Emergency,13,27,14,23,26,20,Low ($19-21),Day,70,Good,TRUE,FALSE
+C0049,6/2/2025,Mount Sinai,Emergency,14,17,3,17,42,35,High ($28-35),Day,62,Excellent,FALSE,FALSE
+C0236,6/24/2025,Senior Care Ambulance,Non-Emergency,9,26,17,17,28,20,Low ($19-21),Day,58,Poor,TRUE,FALSE
+C0253,5/21/2025,Mount Sinai,Emergency,7,16,9,17,43,35,High ($28-35),Day,70,Fair,TRUE,FALSE
+C0022,1/12/2025,Mount Sinai,Emergency,8,9,1,22,32,35,High ($28-35),Night,62,Good,FALSE,FALSE
+C0161,3/11/2025,Mount Sinai,Emergency,7,7,0,25,31,35,High ($28-35),Night,52,Excellent,FALSE,FALSE
+C0277,1/5/2025,Citywide Ambulance,Emergency,12,25,13,9,32,22,Low ($19-21),Day,69,Fair,TRUE,FALSE
+C0192,2/9/2025,AMR,Non-Emergency,7,25,18,15,16,21,Low ($19-21),Night,40,Good,TRUE,FALSE
+C0258,6/27/2025,Hunter Ambulance,Non-Emergency,11,17,6,12,19,19.5,Low ($19-21),Night,73,Poor,TRUE,FALSE
+C0150,4/3/2025,Senior Care Ambulance,Non-Emergency,7,21,14,18,44,20,Low ($19-21),Night,58,Excellent,TRUE,FALSE
+C0131,1/2/2025,Hunter Ambulance,Non-Emergency,8,8,0,23,30,19.5,Low ($19-21),Night,47,Poor,FALSE,FALSE
+C0152,5/6/2025,Hunter Ambulance,Non-Emergency,11,25,14,23,20,19.5,Low ($19-21),Day,38,Good,TRUE,FALSE
+C0100,1/26/2025,Mount Sinai,Emergency,8,9,1,23,37,35,High ($28-35),Night,65,Excellent,FALSE,FALSE
+C0088,3/21/2025,Senior Care Ambulance,Non-Emergency,8,22,0,14,43,20,Low ($19-21),Day,57,Fair,FALSE,TRUE
+C0215,4/25/2025,Citywide Ambulance,Non-Emergency,9,18,9,16,40,22,Low ($19-21),Day,52,Fair,TRUE,FALSE
+C0122,4/9/2025,Ambulnz,Non-Emergency,10,10,0,11,19,28,High ($28-35),Day,60,Excellent,FALSE,FALSE
+C0021,5/22/2025,Ambulnz,Non-Emergency,10,21,11,14,36,28,High ($28-35),Night,51,Poor,TRUE,FALSE
+C0189,3/19/2025,Citywide Ambulance,Non-Emergency,14,19,5,9,40,22,Low ($19-21),Night,66,Below Average,FALSE,FALSE
+C0072,5/19/2025,AMR,Non-Emergency,8,32,24,23,34,21,Low ($19-21),Night,52,Excellent,TRUE,FALSE
+C0107,3/10/2025,Hunter Ambulance,Non-Emergency,7,34,27,13,32,19.5,Low ($19-21),Day,55,Excellent,TRUE,FALSE
+C0271,3/19/2025,Senior Care Ambulance,Non-Emergency,13,36,23,8,30,20,Low ($19-21),Night,69,Good,TRUE,FALSE
+C0103,5/10/2025,AMR,Non-Emergency,13,22,52,16,38,21,Low ($19-21),Day,57,Excellent,TRUE,FALSE

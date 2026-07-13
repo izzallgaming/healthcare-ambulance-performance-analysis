@@ -1,0 +1,2 @@
+SELECT AVG(c13)
+FROM ambulance_response_data_CLEAN

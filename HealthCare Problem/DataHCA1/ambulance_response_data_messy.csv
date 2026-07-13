@@ -1,0 +1,296 @@
+Call_ID,Date,Company,Call_Type,ETA_Minutes,Actual_Response_Minutes,Response_Delta_Minutes,On_Scene_Time_Minutes,Transport_Time_Minutes,Pay_Rate_Hourly,Shift_Type,Daily_Call_Volume,Performance_Rating
+C0274,Mar 16 2025,Senior Care Ambulance,IFT,9,21.0,12,18,26,20.0,Night,50.0,Good
+C0156,06/13/2025,Hunter Ambulance,Non-Emergency,8,14.0,6,18,33,19.5,Day,68.0,Below Average
+C0085,May 05 2025,Mount Sinai,Emergency,9,9.0,0,8,21,35.0,day,48.0,Poor
+C0083,01/08/2025,Hunter Ambulance,IFT,14,37.0,23,18,20,19.5,day,54.0,Good
+C0262,06/28/2025,Senior Care Ambulance,IFT,6,17.0,11,18,45,20.0,DAY,,Poor
+C0010,2025-05-16,Ambulnz,Interfacility Transfer,13,20.0,45,17,22,28.0,Day,50.0,Good
+C0043,04/26/2025,Ambulnz,Non-Emergency,13,16.0,3,18,15,28.0,night,55.0,Below Average
+C0279,2025-05-25,Ambulnz,Non-Emergency,13,,4,23,22,28.0,Day,51.0,Excellent
+C0109,2025-02-06,Citywide Ambulance,Emergency,13,27.0,-5,19,26,22.0,night,,Fair
+C0093,Jun 11 2025,AMR,Non-Emergency,7,13.0,6,16,38,21.0,NIGHT,73.0,excellent
+C0149,2025-01-31,Mount Sinai,Emergency,9,13.0,4,20,44,35.0,Night,70.0,Poor
+C0212,2025-04-06,Senior Care Ambulance,non-emerg,7,28.0,21,13,38,20.0,night,75.0,excellent
+C0061,04/23/2025,Senior Care Ambulance,Non-Emergency,13,21.0,-2,12,17,20.0,night,51.0,good
+C0219,04/03/2025,MountSinai,Emergency,7,7.0,0,23,21,35.0,Day,36.0,Poor
+C0263,Jun 30 2025,Hunter Ambulance,non-emerg,14,3.0,-11,14,24,19.5,night,46.0,Good
+C0047,02/02/2025,Ambulnz,IFT,6,8.0,2,12,35,28.0,night,41.0,Poor
+C0046,2025-05-18,Citywide Ambulance,Emergency,9,15.0,6,24,34,22.0,day,41.0,Poor
+C0237,2025-05-30,Mount Sinai,911,13,9.0,-4,20,31,35.0,day,,Fair
+C0229,06/30/2025,Ambulnz,non-emerg,11,11.0,0,11,36,28.0,Day,50.0,fair
+C0133,2025-05-26,AMR,Non-Emergency,11,14.0,3,25,31,21.0,night,43.0,fair
+C0144,Mar 04 2025,Citywide Ambulance,Emergency,9,22.0,13,9,19,22.0,DAY,53.0,excellent
+C0168,Jun 02 2025,AMR,Interfacility Transfer,9,36.0,27,9,33,21.0,NIGHT,60.0,excellent
+C0153,04/16/2025,Citywide Ambulance,Emergency,9,,-2,24,29,22.0,day,38.0,fair
+C0094,2025-03-21,Citywide Ambulance,Non-Emergency,12,21.0,9,10,24,22.0,DAY,59.0,excellent
+C0114,Apr 15 2025,Citywide Ambulance,Non-Emergency,11,42.0,31,24,26,22.0,Night,70.0,Fair
+C0006,01/17/2025,Mount Sinai,Emergency,11,12.0,1,22,19,35.0,day,43.0,Poor
+C0239,01/23/2025,Ambulnz,Non-Emergency,12,13.0,1,23,27,28.0,Day,37.0,excellent
+C0252,Feb 27 2025,AMR,Non-Emergency,9,28.0,52,22,17,21.0,night,63.0,fair
+C0171,2025-02-12,AMR,IFT,14,18.0,4,25,28,21.0,night,49.0,Fair
+C0187,Jan 18 2025,Ambulnz,IFT,8,14.0,6,12,44,28.0,night,74.0,Below Average
+C0194,Jan 08 2025,AMR,Non-Emergency,14,16.0,67,23,29,21.0,DAY,,Fair
+C0034,2025-03-27,Citywide Ambulance,Non-Emergency,8,11.0,3,12,37,22.0,Night,39.0,excellent
+C0223,02/02/2025,Ambulnz,Interfacility Transfer,7,14.0,7,12,41,28.0,DAY,51.0,Good
+C0217,03/29/2025,AMR,Non-Emergency,12,17.0,5,10,25,21.0,DAY,74.0,Excellent
+C0198,03/04/2025,Ambulnz,IFT,12,17.0,67,8,45,28.0,day,35.0,good
+C0074,05/25/2025,AMR,Non-Emergency,14,38.0,24,15,25,21.0,Night,,Fair
+C0183,Feb 24 2025,  Senior Care Ambulance  ,non-emerg,10,13.0,3,23,40,20.0,day,,fair
+C0120,Mar 20 2025,Hunter Ambulance,Non-Emergency,12,30.0,18,14,33,19.5,day,,fair
+C0155,04/12/2025,AMR,Non-Emergency,12,26.0,14,15,24,21.0,NIGHT,40.0,Excellent
+C0203,2025-04-12,Citywide Ambulance,Non-Emergency,10,30.0,20,20,42,22.0,night,70.0,Below Average
+C0205,Jun 15 2025,Mt Sinai,Emergency,11,9.0,-2,9,20,35.0,DAY,62.0,good
+C0180,2025-03-16,Ambulnz,IFT,14,32.0,18,11,19,28.0,night,38.0,Fair
+C0178,2025-01-27,Hunter Ambulance,non-emerg,9,32.0,23,22,23,19.5,day,40.0,Good
+C0112,Jun 20 2025,Citywide Ambulance,Non-Emergency,14,25.0,11,13,37,22.0,NIGHT,75.0,excellent
+C0060,Mar 03 2025,AMR,non-emerg,12,31.0,52,20,27,21.0,NIGHT,44.0,Excellent
+C0227,02/28/2025,Hunter Ambulance,IFT,13,25.0,12,21,34,19.5,NIGHT,40.0,Below Average
+C0026,2025-03-13,Citywide Ambulance,Non-Emergency,10,22.0,12,25,25,22.0,Day,42.0,Poor
+C0078,2025-06-04,Senior Care Ambulance,Non-Emergency,7,16.0,9,25,38,20.0,Night,62.0,Below Average
+C0007,Feb 26 2025,Hunter Ambulance,Non-Emergency,13,,24,11,19,19.5,NIGHT,45.0,good
+C0176,May 24 2025,Hunter Ambulance,Interfacility Transfer,13,31.0,18,23,20,19.5,Day,,Below Average
+C0165,2025-02-15,Citywide Ambulance,Non-Emergency,10,29.0,19,15,25,22.0,night,52.0,good
+C0141,2025-04-18,Citywide Ambulance,IFT,13,26.0,13,20,17,22.0,NIGHT,69.0,excellent
+C0031,2025-01-19,Ambulnz,IFT,9,10.0,1,20,22,28.0,Night,35.0,Good
+C0023,2025-01-10,Citywide Ambulance,IFT,8,,12,19,43,22.0,Day,57.0,Below Average
+C0246,Jan 24 2025,Senior Care Ambulance,Non-Emergency,7,16.0,9,22,24,20.0,day,,Fair
+C0025,03/05/2025,Hunter Ambulance,Interfacility Transfer,7,,7,23,22,19.5,Night,64.0,Below Average
+C0057,01/24/2025,AMR,IFT,7,12.0,5,12,30,21.0,NIGHT,53.0,Poor
+C0145,2025-03-19,Citywide Ambulance,Emergency,14,28.0,14,9,32,22.0,DAY,46.0,good
+C0125,2025-05-30,Citywide Ambulance,Non-Emergency,6,22.0,16,15,38,22.0,Day,72.0,good
+C0098,2025-04-18,AMR,IFT,8,,14,23,42,21.0,day,70.0,Good
+C0064,06/24/2025,Mount Sinai,Emergency,8,7.0,-1,22,23,35.0,NIGHT,35.0,fair
+C0018,2025-01-31,Mount Sinai,Emergency,6,9.0,3,24,25,35.0,day,48.0,excellent
+C0216,Apr 07 2025,Ambulnz,Non-Emergency,13,21.0,8,15,20,28.0,night,39.0,Excellent
+C0220,2025-04-12,Hunter Ambulance,Non-Emergency,10,22.0,12,13,26,19.5,night,58.0,Excellent
+C0184,04/20/2025,Ambulnz,Non-Emergency,8,14.0,6,16,17,28.0,NIGHT,58.0,excellent
+C0115,2025-01-15,Ambulnz,non-emerg,10,13.0,3,15,26,28.0,DAY,53.0,Poor
+C0077,04/24/2025,Hunter Ambulance,Non-Emergency,7,19.0,12,12,23,19.5,DAY,75.0,excellent
+C0260,2025-06-20,AMR,IFT,14,32.0,18,8,31,21.0,Day,36.0,Excellent
+C0067,06/12/2025,Ambulnz,Non-Emergency,10,14.0,4,12,35,28.0,Day,75.0,Poor
+C0179,2025-06-26,Ambulnz,IFT,12,15.0,3,14,41,28.0,Night,38.0,Poor
+C0155,04/12/2025,AMR,Non-Emergency,12,26.0,14,15,24,21.0,NIGHT,40.0,Excellent
+C0076,Apr 03 2025,Citywide Ambulance,Non-Emergency,14,32.0,18,24,24,22.0,night,,fair
+C0020,2025-02-10,Mount Sinai,Emergency,10,8.0,-2,24,15,35.0,NIGHT,70.0,Good
+C0109,2025-02-06,Citywide Ambulance,Emergency,13,27.0,-5,19,26,22.0,night,,Fair
+C0080,2025-05-31,AMR,IFT,7,4.0,-3,21,42,21.0,NIGHT,38.0,Poor
+C0119,01/25/2025,Mount Sinai,Emergency,12,18.0,6,13,41,35.0,day,71.0,Below Average
+C0073,Jan 26 2025,  Hunter Ambulance  ,Interfacility Transfer,11,22.0,45,11,45,19.5,night,40.0,Excellent
+C0016,01/16/2025,Hunter Ambulance,Interfacility Transfer,6,13.0,7,22,24,19.5,night,70.0,fair
+C0011,May 17 2025,Hunter Ambulance,non-emerg,13,21.0,8,24,42,19.5,DAY,62.0,Below Average
+C0102,2025-05-12,Hunter Ambulance,Non-Emergency,10,18.0,8,15,33,19.5,night,46.0,Good
+C0069,Mar 17 2025,AMR,non-emerg,7,21.0,14,15,42,21.0,NIGHT,60.0,excellent
+C0126,06/29/2025,Citywide Ambulance,IFT,6,35.0,29,21,37,22.0,Night,61.0,fair
+C0038,04/18/2025,Hunter Ambulance,non-emerg,7,4.0,-3,9,45,19.5,day,49.0,Excellent
+C0017,05/19/2025,  AMR  ,Non-Emergency,11,14.0,67,24,20,21.0,Day,,Fair
+,,,,,,,,,,,,
+C0140,2025-01-12,Mount Sinai,Emergency,14,13.0,-1,10,44,35.0,night,37.0,Fair
+C0267,2025-01-30,Citywide Ambulance,Non-Emergency,10,35.0,67,19,31,22.0,DAY,63.0,Poor
+C0068,Jan 24 2025,Mount Sinai,911,12,18.0,6,25,43,35.0,day,68.0,Poor
+C0091,2025-01-24,Mount Sinai,emerg,13,15.0,2,9,29,35.0,DAY,47.0,fair
+C0070,2025-04-27,Hunter Ambulance,IFT,10,16.0,6,19,18,19.5,NIGHT,49.0,excellent
+C0204,01/04/2025,Mount Sinai,Emergency,9,15.0,6,19,36,35.0,NIGHT,40.0,Poor
+C0166,2025-02-16,Senior Care Ambulance,non-emerg,13,28.0,15,17,41,20.0,NIGHT,39.0,good
+C0127,2025-02-05,Citywide Ambulance,IFT,13,17.0,4,13,29,22.0,DAY,56.0,Poor
+C0222,May 02 2025,Hunter Ambulance,IFT,10,8.0,-5,24,40,19.5,DAY,74.0,fair
+C0174,01/31/2025,Senior Care Ambulance,Non-Emergency,7,21.0,14,24,27,20.0,night,73.0,good
+C0019,2025-04-28,Hunter Ambulance,IFT,7,11.0,67,11,17,19.5,DAY,48.0,Fair
+C0173,2025-05-06,Ambulnz,Non-Emergency,12,16.0,4,19,26,28.0,night,74.0,Poor
+C0097,2025-03-02,Mount Sinai,Emergency,13,16.0,3,23,43,35.0,Night,58.0,fair
+C0147,2025-01-15,Citywide Ambulance,Non-Emergency,14,16.0,2,16,21,22.0,day,40.0,excellent
+C0087,Jun 13 2025,AMR,IFT,6,25.0,19,22,41,21.0,NIGHT,,Good
+C0238,04/28/2025,Ambulnz,non-emerg,8,13.0,5,13,25,28.0,NIGHT,,Poor
+C0138,05/25/2025,Senior Care Ambulance,Non-Emergency,14,23.0,9,25,19,20.0,Night,55.0,fair
+C0177,2025-04-28,AMR,Non-Emergency,13,25.0,12,11,23,21.0,DAY,58.0,Excellent
+C0110,05/27/2025,AMR,Interfacility Transfer,11,22.0,11,15,45,21.0,Day,36.0,fair
+C0247,Apr 20 2025,AMR,IFT,6,14.0,-2,13,25,21.0,day,63.0,Poor
+C0197,2025-03-21,Mount Sinai,911,6,6.0,0,17,38,35.0,DAY,50.0,fair
+C0056,2025-05-08,Ambulnz,IFT,9,18.0,9,17,29,28.0,NIGHT,66.0,Below Average
+C0251,2025-02-08,Citywide Ambulance,Non-Emergency,6,7.0,-2,23,42,22.0,night,,fair
+C0159,2025-01-20,American Medical Response,Non-Emergency,12,14.0,2,16,40,21.0,night,66.0,good
+C0243,01/06/2025,Mount Sinai,Emergency,7,11.0,4,25,23,35.0,night,44.0,Excellent
+C0039,02/09/2025,Ambulnz,Non-Emergency,13,11.0,-2,14,29,28.0,NIGHT,51.0,Fair
+C0186,Jan 31 2025,Hunter Ambulance,IFT,8,25.0,17,10,38,19.5,Day,41.0,Poor
+C0280,2025-05-01,Senior Care Ambulance,Non-Emergency,6,14.0,8,24,35,20.0,day,51.0,Fair
+C0058,05/22/2025,Hunter Ambulance,Non-Emergency,9,18.0,9,12,42,19.5,Day,52.0,good
+C0117,2025-05-27,MSHS,Emergency,13,15.0,2,17,30,35.0,Night,60.0,Good
+C0130,03/11/2025,Senior Care Ambulance,IFT,9,16.0,7,24,22,20.0,NIGHT,,good
+C0113,Mar 02 2025,Mount Sinai,911,14,16.0,2,25,19,35.0,DAY,,good
+C0278,May 31 2025,Ambulnz,Non-Emergency,13,14.0,1,19,31,28.0,Day,50.0,Fair
+C0105,02/21/2025,Ambulance Inc,Non-Emergency,9,12.0,3,17,31,28.0,night,69.0,Excellent
+C0231,06/24/2025,AMR,IFT,8,14.0,6,8,22,21.0,day,73.0,Poor
+C0160,Jan 22 2025,Citywide Ambulance,Non-Emergency,9,26.0,17,12,27,22.0,NIGHT,75.0,good
+C0032,2025-05-13,Ambulnz,non-emerg,7,20.0,13,24,32,28.0,DAY,55.0,fair
+C0118,Feb 22 2025,Ambulnz,Non-Emergency,11,10.0,-1,20,19,28.0,day,67.0,excellent
+C0273,03/30/2025,Mount Sinai,911,14,20.0,6,16,21,35.0,Day,46.0,Excellent
+C0079,2025-03-22,Hunter Ambulance,IFT,11,23.0,12,23,17,19.5,Day,,Good
+C0214,06/06/2025,Senior Care Ambulance,IFT,7,24.0,17,10,22,20.0,day,55.0,Good
+C0209,2025-05-28,Citywide Ambulance,Emergency,11,27.0,16,13,20,22.0,Night,72.0,excellent
+C0240,2025-01-05,AMR,IFT,9,27.0,18,17,19,21.0,Day,59.0,Poor
+C0268,01/25/2025,Ambulnz,Non-Emergency,14,12.0,-2,14,36,28.0,NIGHT,48.0,good
+C0148,2025-03-10,Citywide Ambulance,Emergency,6,7.0,1,25,21,22.0,night,48.0,excellent
+C0272,2025-03-18,Senior Care Ambulance,IFT,11,,0,25,19,20.0,Day,,good
+C0003,2025-03-30,American Medical Response,Non-Emergency,13,30.0,17,20,17,21.0,DAY,53.0,excellent
+C0116,2025-06-07,Senior Care Ambulance,IFT,8,22.0,14,13,36,20.0,DAY,73.0,Excellent
+C0196,Feb 27 2025,Citywide Ambulance,Non-Emergency,11,26.0,15,19,18,22.0,DAY,38.0,Excellent
+C0169,2025-02-26,Hunter Ambulance,Non-Emergency,9,19.0,10,24,19,19.5,day,36.0,Poor
+C0121,05/18/2025,Citywide Ambulance,Non-Emergency,7,25.0,18,19,39,22.0,night,,Excellent
+C0201,Mar 23 2025,Hunter Ambulance,IFT,9,23.0,14,11,19,19.5,Day,45.0,excellent
+C0257,Apr 21 2025,Mount Sinai,Emergency,14,20.0,6,13,38,35.0,Night,41.0,excellent
+C0128,03/18/2025,Ambulnz,Non-Emergency,10,11.0,1,23,25,28.0,night,57.0,Poor
+C0075,Jun 19 2025,Senior Care Ambulance,Non-Emergency,11,3.0,-8,18,15,20.0,Night,,good
+C0030,2025-03-14,  Citywide Ambulance  ,Emergency,11,20.0,9,15,36,22.0,day,49.0,Fair
+C0084,06/22/2025,Ambulnz,IFT,13,14.0,1,22,28,28.0,day,48.0,Good
+C0233,Jan 28 2025,Senior Care Ambulance,Non-Emergency,10,22.0,12,16,35,20.0,NIGHT,54.0,Below Average
+C0108,Feb 12 2025,AMR,IFT,6,19.0,13,21,23,21.0,NIGHT,,good
+C0235,2025-06-13,Citywide Ambulance,IFT,11,40.0,29,25,20,22.0,day,41.0,Poor
+C0158,Apr 12 2025,Ambulnz,Interfacility Transfer,9,15.0,6,25,25,28.0,night,43.0,Good
+C0259,May 22 2025,Senior Care Ambulance,IFT,10,25.0,15,12,37,20.0,NIGHT,46.0,excellent
+C0181,2025-03-05,Ambulnz,IFT,13,20.0,7,21,27,28.0,night,39.0,Good
+C0207,2025-06-14,AMR,Non-Emergency,14,30.0,16,19,30,21.0,DAY,66.0,excellent
+C0066,06/29/2025,Hunter Ambulance,IFT,12,34.0,22,9,44,19.5,DAY,66.0,Poor
+C0222,May 02 2025,Hunter Ambulance,IFT,10,8.0,-5,24,40,19.5,DAY,74.0,fair
+C0086,Apr 08 2025,MountSinai,Emergency,14,14.0,0,10,27,35.0,NIGHT,37.0,fair
+C0204,01/04/2025,Mount Sinai,Emergency,9,15.0,6,19,36,35.0,NIGHT,40.0,Poor
+C0013,03/02/2025,Mount Sinai,Emergency,13,16.0,3,23,22,35.0,night,61.0,Good
+C0036,Jun 04 2025,Hunter Ambulance,IFT,10,,2,18,36,19.5,NIGHT,60.0,fair
+C0029,Jun 07 2025,Hunter Ambulance,non-emerg,6,13.0,7,18,29,19.5,night,63.0,fair
+C0143,01/29/2025,Ambulnz,IFT,12,9.0,-3,8,22,28.0,Night,39.0,Excellent
+C0182,Apr 27 2025,Citywide Ambulance,Non-Emergency,6,11.0,5,10,38,22.0,night,75.0,excellent
+C0266,Mar 26 2025,Ambulnz,IFT,14,13.0,-1,8,18,28.0,NIGHT,57.0,Below Average
+C0185,2025-06-10,Citywide Ambulance,Non-Emergency,9,19.0,10,11,15,22.0,Night,,Below Average
+C0052,2025-06-02,Ambulnz,Interfacility Transfer,10,12.0,2,17,37,28.0,night,52.0,fair
+C0096,2025-01-26,Ambulnz,Non-Emergency,14,12.0,45,12,34,28.0,night,44.0,Fair
+C0254,2025-04-27,AMR,Interfacility Transfer,13,33.0,20,22,18,21.0,Day,,excellent
+C0211,2025-01-01,Senior Care Ambulance,IFT,8,24.0,16,18,16,20.0,Day,44.0,Fair
+C0042,Apr 28 2025,Mount Sinai,Emergency,14,17.0,3,25,39,35.0,night,64.0,Poor
+C0090,2025-01-18,Citywide Ambulance,Non-Emergency,10,26.0,16,10,24,22.0,night,,excellent
+C0234,2025-02-05,Senior Care Ambulance,Non-Emergency,10,16.0,6,20,38,20.0,Day,72.0,Below Average
+C0137,2025-02-09,Ambulnz,Non-Emergency,11,11.0,0,23,39,28.0,DAY,48.0,Good
+C0027,2025-03-22,Amr,Non-Emergency,7,9.0,2,16,16,21.0,NIGHT,,Below Average
+C0145,2025-03-19,Citywide Ambulance,Emergency,14,28.0,14,9,32,22.0,DAY,46.0,good
+C0142,2025-02-27,Senior Care Ambulance,Non-Emergency,10,32.0,22,21,32,20.0,night,49.0,excellent
+C0275,2025-06-18,AMR,Non-Emergency,11,15.0,4,13,15,21.0,day,50.0,good
+C0001,03/12/2025,Citywide Ambulance,IFT,8,23.0,15,25,17,22.0,DAY,,Good
+C0265,2025-03-19,Citywide Ambulance,IFT,11,20.0,45,13,31,22.0,Day,67.0,good
+C0101,2025-05-21,  Mount Sinai  ,911,12,10.0,-2,17,18,35.0,Day,50.0,fair
+C0250,2025-06-23,AMR,Non-Emergency,9,24.0,15,18,31,21.0,DAY,,Below Average
+C0245,04/15/2025,Senior Care Ambulance,Non-Emergency,6,8.0,2,23,25,20.0,Night,,Good
+C0276,May 03 2025,Amr,Non-Emergency,10,25.0,15,10,41,21.0,day,43.0,Below Average
+C0099,Feb 07 2025,Ambulnz,non-emerg,9,13.0,4,8,28,28.0,Day,60.0,Below Average
+C0037,Jun 01 2025,Senior Care Ambulance,non-emerg,12,25.0,13,9,23,20.0,night,55.0,excellent
+C0062,2025-04-08,AMR,Interfacility Transfer,13,,10,10,22,21.0,NIGHT,53.0,Good
+C0151,2025-05-22,Ambulnz,Non-Emergency,12,17.0,5,15,27,28.0,DAY,50.0,excellent
+C0226,Jun 24 2025,AMR,IFT,11,,20,23,44,21.0,day,,Poor
+C0193,Jun 18 2025,Senior Care Ambulance,IFT,8,21.0,13,19,31,20.0,DAY,51.0,Fair
+C0232,Apr 07 2025,Citywide Ambulance,Non-Emergency,9,22.0,13,20,33,22.0,Day,35.0,excellent
+C0012,Apr 23 2025,Hunter Ambulance,IFT,9,17.0,8,25,22,19.5,DAY,,Excellent
+C0093,Jun 11 2025,AMR,Non-Emergency,7,13.0,6,16,38,21.0,NIGHT,73.0,excellent
+C0264,2025-01-11,Ambulnz,Non-Emergency,8,8.0,0,8,25,28.0,night,,excellent
+C0028,2025-06-09,Mount Sinai,emerg,10,13.0,3,18,27,35.0,NIGHT,53.0,Below Average
+C0210,2025-05-26,  Mount Sinai  ,Emergency,9,24.0,15,23,32,35.0,day,46.0,Good
+C0005,Jan 19 2025,Citywide Ambulance,IFT,9,19.0,10,25,22,22.0,NIGHT,55.0,Excellent
+C0123,May 11 2025,AMR,Non-Emergency,6,29.0,23,23,31,21.0,night,44.0,Fair
+C0033,May 21 2025,Citywide Ambulance,Non-Emergency,13,24.0,11,16,39,22.0,DAY,66.0,Poor
+C0195,Jun 22 2025,AMR,Interfacility Transfer,14,27.0,-5,23,26,21.0,night,44.0,Excellent
+C0163,01/17/2025,AMR,Non-Emergency,10,31.0,21,10,26,21.0,day,50.0,fair
+C0224,2025-03-12,Senior Care Ambulance,Non-Emergency,6,6.0,0,24,40,20.0,night,42.0,Fair
+C0248,2025-01-30,Mount Sinai,Emergency,10,10.0,0,23,40,35.0,night,45.0,Excellent
+C0139,May 11 2025,Ambulnz,Non-Emergency,8,16.0,8,9,32,28.0,night,54.0,good
+C0063,2025-01-26,Mount Sinai,911,6,5.0,-5,19,28,35.0,Night,50.0,Fair
+C0136,Jan 31 2025,AMR,Non-Emergency,14,38.0,24,17,37,21.0,Day,75.0,Poor
+C0129,2025-04-12,Senior Care Ambulance,Non-Emergency,8,20.0,12,10,26,20.0,night,51.0,Below Average
+C0010,2025-05-16,Ambulnz,Interfacility Transfer,13,20.0,45,17,22,28.0,Day,50.0,Good
+C0009,2025-03-09,Hunter Ambulance,Non-Emergency,14,22.0,8,17,41,19.5,NIGHT,67.0,Fair
+C0071,Apr 29 2025,Ambulnz,IFT,12,,6,9,24,28.0,night,,Fair
+C0261,Mar 15 2025,Ambulnz,Interfacility Transfer,6,6.0,0,25,16,28.0,day,63.0,Below Average
+C0065,2025-04-24,Citywide Ambulance,Emergency,10,28.0,18,16,29,22.0,day,47.0,fair
+C0045,2025-03-04,Mount Sinai EMS,Emergency,13,11.0,-2,25,25,35.0,day,64.0,Poor
+C0225,Jan 28 2025,  Senior Care Ambulance  ,non-emerg,10,18.0,8,21,23,20.0,night,66.0,fair
+C0157,03/11/2025,  Citywide Ambulance  ,Non-Emergency,7,33.0,26,25,33,22.0,NIGHT,37.0,excellent
+C0041,2025-01-31,AMR,IFT,6,23.0,17,19,17,21.0,DAY,,good
+C0124,Jun 07 2025,Senior Care Ambulance,Non-Emergency,11,11.0,0,23,37,20.0,DAY,54.0,Excellent
+C0255,01/28/2025,AMR,Non-Emergency,8,8.0,0,21,18,21.0,day,74.0,Good
+C0154,2025-05-16,MountSinai,Emergency,10,13.0,52,13,18,35.0,Day,68.0,Below Average
+C0024,2025-04-15,AMR,Interfacility Transfer,9,9.0,0,13,43,21.0,night,36.0,excellent
+C0034,2025-03-27,Citywide Ambulance,Non-Emergency,8,11.0,3,12,37,22.0,Night,39.0,excellent
+C0256,Feb 18 2025,Hunter Ambulance,Interfacility Transfer,12,20.0,67,22,29,19.5,NIGHT,72.0,Fair
+C0082,2025-01-07,Senior Care Ambulance,IFT,10,24.0,45,17,44,20.0,day,,Fair
+C0208,03/13/2025,Ambulnz LLC,Non-Emergency,13,20.0,7,15,20,28.0,Day,50.0,Poor
+C0213,04/02/2025,Senior Care Ambulance,non-emerg,8,27.0,19,17,19,20.0,Night,35.0,good
+C0040,03/21/2025,Citywide Ambulance,Emergency,6,19.0,13,20,27,22.0,NIGHT,,Below Average
+C0230,Feb 11 2025,Hunter Ambulance,Non-Emergency,7,24.0,17,13,42,19.5,DAY,48.0,Below Average
+C0147,2025-01-15,Citywide Ambulance,Non-Emergency,14,16.0,2,16,21,22.0,day,40.0,excellent
+C0249,May 26 2025,  Ambulnz LLC  ,Non-Emergency,12,25.0,13,12,30,28.0,night,42.0,fair
+C0200,05/29/2025,AMR,IFT,8,10.0,2,9,28,21.0,NIGHT,43.0,Poor
+C0015,2025-01-20,AMR,Interfacility Transfer,14,13.0,-1,25,41,21.0,Day,40.0,Below Average
+C0048,Mar 06 2025,Hunter Ambulance,non-emerg,7,27.0,20,9,19,19.5,Night,71.0,Good
+C0095,Jun 25 2025,Citywide Ambulance,IFT,12,,8,17,20,22.0,Night,56.0,fair
+C0260,2025-06-20,AMR,IFT,14,32.0,18,8,31,21.0,Day,36.0,Excellent
+C0228,2025-04-06,Hunter Ambulance,Interfacility Transfer,8,11.0,67,24,43,19.5,DAY,36.0,Below Average
+C0270,Apr 21 2025,Hunter Ambulance,IFT,7,20.0,13,10,39,19.5,NIGHT,,Good
+C0202,Apr 26 2025,Senior Care Ambulance,Interfacility Transfer,7,23.0,16,17,41,20.0,NIGHT,,excellent
+C0162,04/09/2025,Senior Care Ambulance,Non-Emergency,12,30.0,18,25,43,20.0,Night,71.0,good
+C0044,2025-06-29,AMR,Interfacility Transfer,14,23.0,9,21,30,21.0,DAY,50.0,fair
+C0218,02/10/2025,Citywide Ambulance,Non-Emergency,11,21.0,10,25,38,22.0,NIGHT,69.0,Poor
+C0146,2025-06-21,Mount Sinai,emerg,12,17.0,5,13,39,35.0,DAY,65.0,Below Average
+C0191,Jan 16 2025,Mount Sinai EMS,Emergency,10,10.0,0,21,28,35.0,NIGHT,,Fair
+C0221,05/25/2025,Hunter Ambulance,Interfacility Transfer,7,37.0,30,25,28,19.5,DAY,49.0,good
+C0241,May 14 2025,  Mount Sinai  ,Emergency,8,8.0,0,19,39,35.0,Night,45.0,good
+C0004,2025-02-28,Citywide Ambulance,IFT,9,33.0,24,22,35,22.0,day,45.0,Below Average
+C0106,Jan 13 2025,Ambulnz,Interfacility Transfer,7,13.0,6,20,38,28.0,night,59.0,Fair
+C0054,Feb 16 2025,Citywide Ambulance,Non-Emergency,13,29.0,16,21,25,22.0,day,41.0,excellent
+C0134,06/15/2025,Mount Sinai,911,8,12.0,45,14,20,35.0,DAY,75.0,good
+C0002,Jun 16 2025,Senior Care Ambulance,IFT,13,23.0,10,8,39,20.0,Night,62.0,Fair
+C0132,2025-06-16,Citywide Ambulance,Emergency,6,18.0,12,13,44,22.0,Day,60.0,Fair
+C0104,03/27/2025,Citywide Ambulance,IFT,11,16.0,5,13,41,22.0,NIGHT,64.0,fair
+C0050,06/10/2025,Citywide Ambulance,Emergency,7,5.0,-2,10,20,22.0,Day,61.0,fair
+C0164,Jan 02 2025,Ambulnz,Non-Emergency,12,12.0,0,18,28,28.0,NIGHT,73.0,excellent
+C0081,05/04/2025,Senior Care Ambulance,Non-Emergency,7,17.0,10,11,39,20.0,day,71.0,good
+C0206,Feb 24 2025,  Hunter Ambulance  ,Non-Emergency,13,,4,15,35,19.5,day,66.0,fair
+C0035,2025-04-10,Hunter Ambulance,Interfacility Transfer,6,24.0,18,20,30,19.5,Day,57.0,good
+C0269,2025-04-22,Ambulnz,IFT,8,,45,10,16,28.0,Night,51.0,Below Average
+C0008,05/16/2025,Hunter Ambulance,non-emerg,14,,18,11,36,19.5,DAY,52.0,excellent
+C0172,Jun 07 2025,Citywide Ambulance,Emergency,12,17.0,5,14,23,22.0,NIGHT,39.0,Fair
+C0199,May 16 2025,Citywide Ambulance,Emergency,6,18.0,12,16,17,22.0,Day,49.0,good
+,,,,,,,,,,,,
+C0111,2025-06-30,Senior Care Ambulance,Interfacility Transfer,10,7.0,-3,14,18,20.0,Night,39.0,fair
+C0092,Mar 29 2025,Mount Sinai,911,8,13.0,52,24,31,35.0,DAY,45.0,Poor
+C0053,Mar 24 2025,Senior Care Ambulance,Non-Emergency,9,15.0,6,8,39,20.0,NIGHT,52.0,Fair
+C0242,Jan 06 2025,Ambulnz,Non-Emergency,11,14.0,3,20,43,28.0,NIGHT,51.0,Excellent
+C0014,2025-01-14,AMR,Non-Emergency,7,4.0,45,11,22,21.0,Night,47.0,Fair
+C0089,2025-02-09,Ambulnz,Non-Emergency,8,9.0,1,22,39,28.0,DAY,72.0,excellent
+C0167,06/18/2025,Ambulnz,Non-Emergency,12,20.0,8,23,33,28.0,night,69.0,good
+C0156,06/13/2025,Hunter Ambulance,Non-Emergency,8,14.0,6,18,33,19.5,Day,68.0,Below Average
+C0135,2025-02-05,Mount Sinai,Emergency,6,6.0,0,16,45,35.0,day,54.0,Excellent
+C0241,May 14 2025,  Mount Sinai  ,Emergency,8,8.0,0,19,39,35.0,Night,45.0,good
+C0244,2025-03-11,Citywide Ambulance,IFT,12,30.0,18,11,24,22.0,Day,41.0,Below Average
+C0055,05/21/2025,Hunter Ambulance,non-emerg,7,27.0,20,20,42,19.5,DAY,35.0,fair
+C0051,04/27/2025,Ambulnz,Non-Emergency,9,15.0,6,14,28,28.0,Day,69.0,Fair
+C0175,Jun 15 2025,Hunter Ambulance,IFT,8,22.0,14,18,41,19.5,night,,excellent
+C0190,2025-01-04,  Senior Care Ambulance  ,Interfacility Transfer,8,8.0,0,21,26,20.0,DAY,46.0,Good
+C0188,Apr 09 2025,Mt Sinai,Emergency,8,10.0,2,15,32,35.0,DAY,73.0,Poor
+C0170,Mar 29 2025,  Mount Sinai EMS  ,Emergency,13,13.0,0,22,25,35.0,Day,,Good
+C0059,2025-03-18,Senior Care Ambulance,Non-Emergency,13,27.0,14,23,26,20.0,day,70.0,good
+C0049,Jun 02 2025,Mount Sinai,Emergency,14,17.0,3,17,42,35.0,DAY,62.0,Excellent
+C0236,2025-06-24,Senior Care Ambulance,Non-Emergency,9,26.0,17,17,28,20.0,day,58.0,Poor
+C0253,05/21/2025,MountSinai,Emergency,7,16.0,9,17,43,35.0,DAY,70.0,fair
+C0022,01/12/2025,MountSinai,911,8,9.0,1,22,32,35.0,NIGHT,62.0,Good
+C0161,03/11/2025,MSHS,Emergency,7,7.0,0,25,31,35.0,night,,excellent
+C0277,2025-01-05,Citywide Ambulance,Emergency,12,25.0,13,9,32,22.0,day,69.0,fair
+C0192,Feb 09 2025,AMR,non-emerg,7,25.0,18,15,16,21.0,Night,40.0,Good
+C0258,Jun 27 2025,Hunter Ambulance,IFT,11,17.0,6,12,19,19.5,night,73.0,Poor
+C0150,Apr 03 2025,Senior Care Ambulance,Non-Emergency,7,21.0,14,18,44,20.0,Night,58.0,Excellent
+C0131,2025-01-02,Hunter Ambulance,Interfacility Transfer,8,8.0,0,23,30,19.5,NIGHT,47.0,Poor
+C0152,2025-05-06,Hunter Ambulance,IFT,11,25.0,14,23,20,19.5,DAY,38.0,Good
+C0100,2025-01-26,Mount Sinai,Emergency,8,9.0,1,23,37,35.0,Night,65.0,Excellent
+C0088,Mar 21 2025,Senior Care Ambulance,Non-Emergency,8,22.0,-5,14,43,20.0,day,57.0,Fair
+C0215,04/25/2025,Citywide Ambulance,Non-Emergency,9,18.0,9,16,40,22.0,Day,,fair
+C0122,2025-04-09,Ambulnz,Non-Emergency,10,10.0,0,11,19,28.0,Day,60.0,excellent
+,,,,,,,,,,,,
+C0021,05/22/2025,Ambulnz,Interfacility Transfer,10,21.0,11,14,36,28.0,NIGHT,51.0,Poor
+C0189,03/19/2025,Citywide Ambulance,IFT,14,19.0,5,9,40,22.0,Night,66.0,Below Average
+C0072,2025-05-19,AMR,IFT,8,32.0,24,23,34,21.0,night,,excellent
+C0107,2025-03-10,Hunter Ambulance,Interfacility Transfer,7,34.0,27,13,32,19.5,day,55.0,excellent
+C0271,Mar 19 2025,Senior Care Ambulance,Interfacility Transfer,13,36.0,23,8,30,20.0,Night,69.0,good
+C0103,May 10 2025,Amr,IFT,13,22.0,52,16,38,21.0,Day,57.0,excellent
